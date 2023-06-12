@@ -1,26 +1,19 @@
 .square1{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
     background-color: black;
     
 }
 .square2{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
     background-color: rgb(27, 27, 27);
 
 }
 .square3{
-    width: 100px;
-    height: 100px;
-    margin: 10px;
     background-color: rgb(50, 50, 50);
 }
 .square4{
+    background-color: rgb(60, 59, 59);
+}
+.square{
     width: 100px;
     height: 100px;
     margin: 10px;
-    background-color: rgb(60, 59, 59);
 }
